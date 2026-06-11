@@ -72,7 +72,22 @@ export default defineConfig([
 ])
 ```
 
+---
 
+# Schedule Builder - Progress
+
+## Implemented
+- [x] Add courses with multiple days
+- [x] Delete courses
+- [x] CSS styling (basic)
+
+## Next Features
+- [ ] Local storage (save schedule)
+- [ ] Dark theme toggle
+- [ ] Edit course
+- [ ] Color coding by day
+
+---
 
 ## AI Disclosure
 This project was developed with assistance from DeepSeek (Des) for planning, code structure review, and debugging support.
