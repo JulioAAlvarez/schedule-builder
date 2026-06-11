@@ -71,3 +71,8 @@ export default defineConfig([
   },
 ])
 ```
+
+
+
+## AI Disclosure
+This project was developed with assistance from DeepSeek (Des) for planning, code structure review, and debugging support.
