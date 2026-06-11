@@ -1,0 +1,82 @@
+/* ScheduleBuilder.css */
+
+
+.font-container{
+    border: 1px solid #ccc:
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px: 
+}
+
+.input-group {
+    display: felx;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.input-field {
+    padding: 0px;
+    width: 200px;
+}
+
+.time-field {
+    padding: 0px;
+    width: 12px;
+}
+.days-container {
+    margin: 1rem 0;
+}
+
+.days-checkbox-group {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: flex;
+    margin-top: 0.5px;
+}
+
+.days-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 0.25px;
+}
+
+.add-button {
+    padding: 0.25rem;
+    cursor: pointer;
+}
+
+.course-list {
+    list-style: none;
+    padding: 0;
+}
+
+.course-item {
+    border: 1px solid#ddd;
+    padding: 0.75rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+}
+
+.course-info string {
+    font-weight: bold;
+}
+
+.course-badge {
+    background-color: #e0e0e0;
+    padding: 025rem 0.5rem;
+    border-radius: 4px;
+}
+
+.delete-button {
+    background-color: #ff4444;
+    color: white;
+    border: none;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
